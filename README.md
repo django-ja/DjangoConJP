@@ -60,6 +60,12 @@
 * 参加登録、支払いの場所
 * CodeOfConduct
 
+## 連絡先
+
+* DjangoConJP運営用のGoogleGroup: https://groups.google.com/forum/#!forum/django-con-jp
+    * django-con-jp@googlegroups.com を問い合わせ先とする
+* 下記のSlackに参加ください
+
 ## プロジェクト用ツール
 
 * Slack: http://djangoja-slackin.herokuapp.com/
@@ -68,6 +74,3 @@
 * GoogleDrive（シート、フォーム用）: https://drive.google.com/drive/folders/0By_IuTwBt5jqNHBSeFVYc2xDU3M?usp=sharing
 * GitHub:
     * ドキュメント用: https://github.com/django-ja/DjangoConJP
-* DjangoConJP運営用のGoogleGroup: https://groups.google.com/forum/#!forum/django-con-jp
-    * django-con-jp@googlegroup.jp を問い合わせ先とする
-    * 基本のやりとりはSlackで
