@@ -69,5 +69,5 @@
 * GitHub:
     * ドキュメント用: https://github.com/django-ja/DjangoConJP
 * DjangoConJP運営用のGoogleGroup: https://groups.google.com/forum/#!forum/django-con-jp
-    * members@djangocon.jp からも受付可能なので、こちらのメルアドを使う
+    * members@mg.djangocon.jp からも受付可能なので、問い合わせ先としてはこちらのアドレスを使う
     * 基本のやりとりはSlackで
