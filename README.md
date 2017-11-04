@@ -68,3 +68,6 @@
 * GoogleDrive（シート、フォーム用）: https://drive.google.com/drive/folders/0By_IuTwBt5jqNHBSeFVYc2xDU3M?usp=sharing
 * GitHub:
     * ドキュメント用: https://github.com/django-ja/DjangoConJP
+* DjangoConJP運営用のGoogleGroup: https://groups.google.com/forum/#!forum/django-con-jp
+    * members@djangocon.jp からも受付可能なので、こちらのメルアドを使う
+    * 基本のやりとりはSlackで
