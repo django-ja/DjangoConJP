@@ -1,4 +1,4 @@
-# DjangoCon mini JP 2018
+# DjangoCon JP 2018
 
 1回で燃え尽きるより、5回続ける1回目をやろう。
 
