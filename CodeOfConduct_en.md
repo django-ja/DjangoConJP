@@ -38,3 +38,13 @@ including warning the offender or expulsion from the conference with no refund.
 
 We expect participants to follow these rules at all conference venues and conference-related social events.
 Reporting harassment
+
+
+## Contact Information
+
+If the matter is especially urgent, please call/contact any of these individuals:
+
+* Hiroki Kiyohara (Male staff member)  TEL: +81 80-3785-0655
+* Mami Enomoto (Female staff member)  TEL: +81 90-7893-3014
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
