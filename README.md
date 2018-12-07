@@ -66,6 +66,7 @@
 * DjangoConJP運営用のGoogleGroup: https://groups.google.com/forum/#!forum/django-con-jp
     * django-con-jp@googlegroups.com を問い合わせ先とする
 * 下記のSlackに参加ください
+    * http://djangoja-slackin.herokuapp.com/
 
 ## プロジェクト用ツール
 
