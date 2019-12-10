@@ -1,5 +1,7 @@
 # 会場
 
+![会場の外観](https://www.city.nagano.nagano.jp/uploaded/image/8652.jpg)
+
 ## 時間
 
 * 2020年6月20日 午前 9:00〜 午後 9:30
@@ -78,6 +80,8 @@ https://www.city.nagano.nagano.jp/uploaded/attachment/101650.pdf
 ## アクセス
 
 長野駅から徒歩で10分ほどです。歩くのが一番良いでしょう。
+
+![マップ](https://www.city.nagano.nagano.jp/uploaded/image/8668.jpg)
 
 ### 駐車場
 
