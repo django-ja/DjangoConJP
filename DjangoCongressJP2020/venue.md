@@ -20,6 +20,12 @@
 
 https://www.city.nagano.nagano.jp/soshiki/154/8090.html
 
+### パンフレット
+
+施設については以下のパンフレットでも詳しく知れます。
+
+https://www.city.nagano.nagano.jp/uploaded/attachment/101650.pdf
+
 ### 設備
 
 あるもの:
