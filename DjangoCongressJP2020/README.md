@@ -5,26 +5,20 @@
 ## 開催の想定
 
 * 参加者: 50 ~ 100
-* 時期: 2019年5月、16日 or 23日 or 30日（土曜日）
+* 時期: 2019年6月20日
 * 日程
-    * イベント1日 (23日)
-    * SprintDay1日 (19日)
-* 参加費: 3000~4000円
-* 会場: TBD
-
-地方（長野）開催に関するアンケート
-
-https://docs.google.com/document/d/11kSr7_oTeiaR1O3e76lGWOom4Br5IfXQtwID9J2hFHk/edit?usp=sharing
+    * イベント1日 (20日)
+* 参加費: 2000円
+* 会場: 長野市生涯学習学センター https://www.city.nagano.nagano.jp/soshiki/154/8090.html
 
 ### やること
 
 - 会場
-    - 1か2トラック
+    - 2トラック
     - Wifi
-        - テザリングをお願いしても良い
-        - 発表者さんなど向けに2台ほどWifiルーターレンタル
-    - 電源
-    - 候補地: https://docs.google.com/spreadsheets/d/1KBKO0RTveljGpQL1fe2d6K_jA-s6RrPciw1-Rgt_w-4/edit#gid=0
+        - テザリングをお願いする
+        - 発表者さんなど向けに2台Wifiルーターをレンタルする
+    - 電源: あり
 - 発表者、発表内容
     - 基本は日本語
     - 朝は少し遅めにして1トラック5枠ほど
@@ -33,17 +27,19 @@ https://docs.google.com/document/d/11kSr7_oTeiaR1O3e76lGWOom4Br5IfXQtwID9J2hFHk/
     - 枠だけは取っておく
     - 当日に募集
 - Webサイト
-    - 2019年のページを変更して使う
+    - 基本は2019年のページを変更して使う
     - 2019年の分を `/2019.html` として残しておく
-    - 追加で必要な情報
+    - 追加であると良い情報情報
         - 周囲のホテル
         - 東京から来る方法
 - connpassページ
-    - 支払いは以前通り清原のアカウントを使えばOK
-- ステッカー
-- Sprint
-- 最低限のスポンサー（必要であればお願いする）
-    - 会場スポンサーさんがいてくれれば十分
+    - 支払いは以前通り清原のアカウントを使う
+- ステッカー: 作成
+- 最低限のスポンサー
+    - 会場スポンサー: 日本システム技研さん
+        - 会場スポンサーとしてサイトに掲載
+        - 会場スポンサーとしてオープリングセッションで紹介
+        - スポンサーLT枠
 - 問い合わせ先
   -  GoogleForm
 - ネームタグ
@@ -53,14 +49,20 @@ https://docs.google.com/document/d/11kSr7_oTeiaR1O3e76lGWOom4Br5IfXQtwID9J2hFHk/
     - 未成年者はネームタグでわかるようにする
 - パーティー
     - 現地の居酒屋さんで現地のご飯とお酒を楽しむ
+    - https://www.hotpepper.jp/strJ001152641/
 - 写真撮影
     - 写真撮影スタッフの方をつけてお願いする
+
+## 会場
+
+会場については [会場](./venue.md) を参照
 
 ### やらないこと
 
 * ランチ提供なし
 * 会場冊子提供
 * ポスターセッション
+* Sprint
 * 企業ブース
 * オープンスペース
 * チュートリアルDay
@@ -71,3 +73,7 @@ https://docs.google.com/document/d/11kSr7_oTeiaR1O3e76lGWOom4Br5IfXQtwID9J2hFHk/
 * 19年12月: 会場下見、検討
 * 20年1月、2月: 会場決定
 * 20年2月: イベントページ公開、CFP公開
+
+## 参考
+
+* 地方（長野）開催に関するアンケート https://docs.google.com/document/d/11kSr7_oTeiaR1O3e76lGWOom4Br5IfXQtwID9J2hFHk/edit?usp=sharing
