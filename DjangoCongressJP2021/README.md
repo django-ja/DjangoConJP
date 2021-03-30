@@ -1,6 +1,7 @@
-# DjangoCongress JP 2020
+# DjangoCongress JP 2021
 
-長野でDjangoイベントをやろう
+長野でDjangoイベントをやろう。
+感染症に負けずオンライン・オフラインのハイブリッド。
 
 ## 開催の想定
 
