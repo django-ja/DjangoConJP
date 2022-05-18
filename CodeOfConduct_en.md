@@ -42,9 +42,9 @@ Reporting harassment
 
 ## Contact Information
 
-If the matter is especially urgent, please call/contact any of these individuals:
+If the matter is especially urgent, please contact any of these individuals:
 
-* Hiroki Kiyohara (Male staff member)  TEL: +81 80-3785-0655
-* Mami Enomoto (Female staff member)  TEL: +81 90-7893-3014
+* Hiroki Kiyohara（Male staff member） hirokiky {at} gmail.com
+* AYAKO（Female staff member） sandream66 {at} gmail.com
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
