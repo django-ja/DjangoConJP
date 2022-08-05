@@ -1,4 +1,4 @@
-# DjangoCongress JP 2021
+# DjangoCongress JP 2022
 
 オフライン開催でDjangoをやろう！
 
