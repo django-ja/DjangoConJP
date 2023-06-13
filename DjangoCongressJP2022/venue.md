@@ -1,6 +1,6 @@
 # 会場
 
-![会場の画像](https://www.nikkei-hall.com/common/images/conference/conference_photo_01_L.jpg)
+![会場の画像](https://user-images.githubusercontent.com/854049/187945607-611deb65-cee0-4beb-89d2-793fae7e5170.jpg)
 
 https://www.nikkei-hall.com/access/
 
