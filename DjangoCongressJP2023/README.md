@@ -46,3 +46,9 @@ https://docs.google.com/spreadsheets/d/1UYp_K95zHaxIljkWh6sxog7bZoYwHsNzfLDMvGRU
 * 企業ブース
 * オープンスペース
 * チュートリアルDay
+
+## 掲載用画像
+
+![DSC_0018](https://github.com/django-ja/DjangoConJP/assets/854049/e32fa3ec-9b0b-4378-90a0-56dc7a4e3631)
+
+![DSC_0221](https://github.com/django-ja/DjangoConJP/assets/854049/ef421f5c-6c2b-4522-bdd8-8af487edfbe4)
